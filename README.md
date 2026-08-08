@@ -365,19 +365,8 @@ La validación QA fue realizada por **QA - Lizeth Bedoya** sobre los servicios p
 
 **Demostración del funcionamiento:**
 
-- [Video demo en Loom](https://www.loom.com/share/901706e7367440469279012f505cdb3e)
+[![Swagger AgroMarket - 7 August 2026 - Watch Video](https://cdn.loom.com/sessions/thumbnails/901706e7367440469279012f505cdb3e-00b9e675717d1b80-full-play.gif#t=0.1)](https://www.loom.com/share/901706e7367440469279012f505cdb3e)
 
-<div style="position: relative; padding-bottom: 56.42633228840126%; height: 0;">
-  <iframe src="https://www.loom.com/embed/901706e7367440469279012f505cdb3e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-</div>
-
-<div>
-  <a href="https://www.loom.com/share/901706e7367440469279012f505cdb3e">
-    <p>Swagger AgroMarket - 7 August 2026 - Watch Video</p>
-  </a>
-  <a href="https://www.loom.com/share/901706e7367440469279012f505cdb3e">
-    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/901706e7367440469279012f505cdb3e-00b9e675717d1b80-full-play.gif#t=0.1">
-  </a>
-</div>
+[Ver video demo en Loom](https://www.loom.com/share/901706e7367440469279012f505cdb3e)
 
 **Nota IA:** el caso documentado corresponde al límite de peticiones de Groq (`429 Too Many Requests`). También se validó el caso exitoso de recomendaciones con IA (`TC-42`). Para controlar el consumo de tokens, el servicio de IA solo envía a Groq los 20 productos mejor calificados del catálogo.
